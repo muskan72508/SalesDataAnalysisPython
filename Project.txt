@@ -1,0 +1,32 @@
+1. *Reading Data*
+   - Load a text file named sales_data.txt containing columns Product, Region, and Sales.
+   - Print the first 5 rows of the file.
+
+2. *Finding the Highest*
+   - Find the product with the highest sales.
+   - Find the region with the highest total sales.
+
+3. *Finding the Lowest*
+   - Identify the product with the lowest sales.
+   - Identify the region with the lowest total sales.
+
+4. *Calculating Sums*
+   - Calculate the total sales for all products combined.
+   - Calculate the total sales for each region.
+
+5. *Calculating Averages*
+   - Find the average sales for all products.
+   - Find the average sales per region.
+
+6. *Looping Through Data*
+   - Print all products where sales are greater than 500.
+   - Count how many products have sales less than 200.
+
+7. *Data Transformation*
+   - Create a new column named Sales_Category:
+     - Assign "High" if sales > 500.
+     - Assign "Medium" if 200 < sales <= 500.
+     - Assign "Low" if sales <= 200.
+
+8. *Combining Operations*
+   - Which product had the highest sales in each region?
