@@ -5,3 +5,4 @@ C,East,750
 D,West,300
 E,North,1000
 F,East,900
+G,South,100
